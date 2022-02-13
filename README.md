@@ -1,6 +1,6 @@
 # downloadFitbitClock
 
-UNOFFICIAL Download Guide by Sarah Bass
+UNOFFICIAL Download Guide 
 
 Email Darahbass@gmail if you still have issues. 
 
