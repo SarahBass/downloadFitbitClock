@@ -57,7 +57,7 @@ Time      |  Takes 5 minutes or more without interuptions
 
 > ## Step 4. How to uninstall the watch
 > 
-> go back to your app. 
+> Go back to your app. 
 > 
 > Go to your Fitbit Versa 3 watch, click gallery. 
 > 
