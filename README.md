@@ -37,13 +37,14 @@ Patience       |  If you lose your patience and click on something else or swipe
 > It may be slow so allow several minutes if you do not have good wifi. 
 >When it is finally done, you should be able to select your clockface on your watch or on your device. 
 
+<img src="https://github.com/SarahBass/downloadFitbitClock/blob/main/BeautyPlus_20220212180850108_org.jpg" width="336" height="336">
+
 
 > ## Step 4. How to uninstall the watch. 
 > go back to your app. 
 > Go to your Fitbit Versa 3 watch, click gallery. 
 > Click the clockface and then click "Remove clock face".
 
-<img src="https://github.com/SarahBass/downloadFitbitClock/blob/main/BeautyPlus_20220212180850108_org.jpg" width="336" height="336">
 
 
 ## Good Luck!
