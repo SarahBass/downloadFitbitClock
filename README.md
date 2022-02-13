@@ -4,12 +4,17 @@ UNOFFICIAL Download Guide for a Large file on Fitbit Versa 3
 
 Email Darahbass@gmail if you still have issues. 
 
+![alt text](https://github.com/SarahBass/downloadFitbitClock/blob/main/3D60FACD-F0D7-4BD0-98CB-4F44132F3753.png)
+
 What you need  | Why you need it
 -------------- | --------------
-4 Bars of Wifi |  The app will stop its download if it loses connection, and can prevent you from downloading other clockfaces until you finish the download.
+3 to 4 Bars of Wifi |  The app will pause its download if it loses connection.
 Synced Devices |  Syncing your phone before downloading will help check that you have a good connection.
-The watch connected to a charger | Having your watch on its charger gives it the maximum power to run the download. 
-Patience       |  If you lose your patience and click on something else or swipe away before it downloads, it will give you an incomplete download.
+The watch connected to a charger | Having your watch on its charger gives it the maximum power to run downloads. *Important! 
+Updated Watch | This clockface was made for version 6.0 (Look for a 6 in the middle digit ###.6.##)
+Time      |  Takes 5 minutes or more without interuptions
+
+<img src="https://github.com/SarahBass/downloadFitbitClock/blob/main/B5969D02-8CFD-4D28-BD3C-79A9CF48B8C4.jpeg" width="336" height="336">
 
 # Lets get started!
 
@@ -58,16 +63,18 @@ Patience       |  If you lose your patience and click on something else or swipe
 > 
 > Click the clockface and then click "Remove clock face".
 
-tip: You may want to uninstall the clockface and then re-install it to try again, especially if you partially downloaded it, but it is still in your gallery. When you start the new download, try to keep your device awake while it downloads. If you see a red X on your watch and it vibrates the download has completed, but it has also failed. The bar will start going back and forth, but at this point uninstall because it is unlikely to connect again. It is better to start with a fresh installation. Downloading from a tablet or laptop tends to be more successful for large files than a cellphone.  
+*If you see a red X on your watch and it vibrates the download has completed, but has failed. The bar will start going back and forth. See Most important tip for instructions. 
 
 ![alt text](https://github.com/SarahBass/downloadFitbitClock/blob/main/Untitled%2011.png)
 
-> ## One Last tip: If all of the above does not work, TRY THIS: 
+> ## Most Important Tip: 
 >
->Restart Fitbit Versa and turn Phone OFF/ON
+>After Failed Upload, restart Fitbit Versa and turn Phone OFF/ON
 >
 >Sync Device on app menu
 >
->Try again
+>Connect watch to charger. 
+>
+>Select Clock Face. Install. Place phone or Device next to watch. Wait 5 full minutes. 
 
 ## Good Luck!
