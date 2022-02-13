@@ -60,6 +60,7 @@ Patience       |  If you lose your patience and click on something else or swipe
 
 tip: You may want to uninstall the clockface and then re-install it to try again, especially if you partially downloaded it, but it is still in your gallery. When you start the new download, try to keep your device awake while it downloads. If you see a red X on your watch and it vibrates the download has completed, but it has also failed. The bar will start going back and forth, but at this point uninstall because it is unlikely to connect again. It is better to start with a fresh installation. Downloading from a tablet or laptop tends to be more successful for large files than a cellphone.  
 
+![alt text](https://github.com/SarahBass/downloadFitbitClock/blob/main/Untitled%2011.png)
 
 > ## One Last tip: If all of the above does not work, TRY THIS: 
 >
