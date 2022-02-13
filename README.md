@@ -5,7 +5,7 @@ UNOFFICIAL Download Guide
 Email Darahbass@gmail if you still have issues. 
 
 
-![alt text](https://github.com/SarahBass/downloadFitbitClock/blob/main/Untitled_11%204.png)
+![alt text](https://github.com/SarahBass/downloadFitbitClock/blob/main/Untitled_11%205.png)
 
 
 Step 1: Check your wifi and make sure your phone or device has synced to your fitbit watch.
