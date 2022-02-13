@@ -10,7 +10,7 @@ What you need  | Why you need it
 -------------- | --------------
 3 to 4 Bars of Wifi |  The app will pause its download if it loses connection.
 Synced Devices |  Syncing your phone before downloading will help check that you have a good connection.
-The watch connected to a charger | Having your watch on its charger gives it the maximum power to run downloads. *Important! 
+The watch connected to a charger | Having your watch on its charger gives it the maximum power to run downloads. *Important!* 
 Updated Watch | This clockface was made for version 6.0 (Look for a 6 in the middle digit ###.6.##)
 Time      |  Takes 5 minutes or more without interuptions
 
@@ -63,7 +63,7 @@ Time      |  Takes 5 minutes or more without interuptions
 > 
 > Click the clockface and then click "Remove clock face".
 
-*If you see a red X on your watch and it vibrates the download has completed, but has failed. The bar will start going back and forth. See Most important tip for instructions. 
+*If you see a red X on your watch and it vibrates the download has completed, but has failed. The bar will start going back and forth. See Most important tip for instructions.* 
 
 ![alt text](https://github.com/SarahBass/downloadFitbitClock/blob/main/Untitled%2011.png)
 
