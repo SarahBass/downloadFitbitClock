@@ -65,10 +65,8 @@ tip: You may want to uninstall the clockface and then re-install it to try again
 >
 >Restart Fitbit Versa and turn Phone OFF/ON
 >
->Turn Bluetooth ON/OFF
+>Sync Device on app menu
 >
->Turn Wi-Fi ON/OFF
->
->Try changing the clock face again
+>Try again
 
 ## Good Luck!
