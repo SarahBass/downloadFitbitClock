@@ -49,7 +49,7 @@ Patience       |  If you lose your patience and click on something else or swipe
 <img src="https://github.com/SarahBass/downloadFitbitClock/blob/main/BeautyPlus_20220212180850108_org.jpg" width="336" height="336">
 
 
-> ## Step 4. How to uninstall the watch. 
+> ## Step 4. How to uninstall the watch
 > 
 > go back to your app. 
 > 
@@ -57,6 +57,6 @@ Patience       |  If you lose your patience and click on something else or swipe
 > 
 > Click the clockface and then click "Remove clock face".
 
-
+tip: You may want to uninstall the watch and then reinstall it, if you partially downloaded it. When you start the new download, try to keep your device awake while it downloads. If you see a red X on your watch and it vibrates the download has failed. The bar will start going back and forth. At this point uninstall, and try again. 
 
 ## Good Luck!
