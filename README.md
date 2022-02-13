@@ -8,6 +8,7 @@ What you need  | Why you need it
 -------------- | --------------
 4 Bars of Wifi |  The app will stop its download if it loses connection, and can prevent you from downloading other clockfaces until you finish the download.
 Synced Devices |  Syncing your phone before downloading will help check that you have a good connection.
+The watch connected to a charger | Having your watch on its charger gives it the maximum power to run the download. 
 Patience       |  If you lose your patience and click on something else or swipe away before it downloads, it will give you an incomplete download.
 
 # Lets get started!
