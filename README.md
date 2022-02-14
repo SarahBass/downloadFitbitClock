@@ -65,6 +65,8 @@ Time      |  Takes 5 minutes or more without interuptions
 
 *If you see a red X on your watch and it vibrates the download has completed, but has failed. The bar will start going back and forth. See Most important tip for instructions.* 
 
+*If it won't stop downloading, shut off just your watch by going to settings : shut down. Your app will say "Unable to install" This will help it stop.* 
+
 ![alt text](https://github.com/SarahBass/downloadFitbitClock/blob/main/Untitled%2011.png)
 
 > ## Most Important Tip: 
