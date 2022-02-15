@@ -84,7 +84,8 @@ Time      |  Takes 5 minutes or more without interuptions
 > 
 > Scroll down and Click "Remove Clockface". 
 
-<img src="https://github.com/SarahBass/downloadFitbitClock/blob/main/removeversa.gif" width="336" height="336">
+![alt text](https://github.com/SarahBass/downloadFitbitClock/blob/main/Untitled%2011.png)
+
 
 > *------------Help!! That didn't work either!----------*
 >
@@ -96,8 +97,7 @@ Time      |  Takes 5 minutes or more without interuptions
 >
 >  Now link the clean watch to your clean account.
 
-![alt text](https://github.com/SarahBass/downloadFitbitClock/blob/main/Untitled%2011.png)
-
+<img src="https://github.com/SarahBass/downloadFitbitClock/blob/main/removeversa.gif" width="336" height="336">
 
 > ## Most Important Tip: 
 >
