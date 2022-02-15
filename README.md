@@ -108,7 +108,6 @@ Time      |  Takes 5 minutes or more without interuptions
 >Select Clock Face. Install. Place phone or Device next to watch. Wait 5 full minutes. 
 >
 
-<img src="https://github.com/SarahBass/downloadFitbitClock/blob/main/forcestop.jpeg" width="336" height="336">
 
 > ## Further Reading
 >
