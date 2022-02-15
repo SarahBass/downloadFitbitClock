@@ -70,6 +70,7 @@ Time      |  Takes 5 minutes or more without interuptions
 > ## Step 5: What if it won't stop the download?!
 
    *This is a Fitbit issue and actually has nothing to do with Virtual Pet Star, but I understand your frustration or annoyance.*
+   
 > Uninstall Fitbit app from your cellphone
 >
 > Install Fitbit app to another device (example: ipad)
@@ -87,7 +88,7 @@ Time      |  Takes 5 minutes or more without interuptions
 ![alt text](https://github.com/SarahBass/downloadFitbitClock/blob/main/Untitled%2011.png)
 
 
-> *------------Help!! That didn't work either!----------*
+> ## Step 6: Last resort to delete large file downloads
 >
 > Uninstall the app, go on an internet browser. 
 > 
@@ -108,11 +109,13 @@ Time      |  Takes 5 minutes or more without interuptions
 >Connect watch to charger. 
 >
 >Select Clock Face. Install. Place phone or Device next to watch. Wait 5 full minutes. 
->
+
 
 
 ## Good Luck!
 
+
+![alt text](https://github.com/SarahBass/downloadFitbitClock/blob/main/Watch_pet.png)
 
 > Further Reading:
 >
