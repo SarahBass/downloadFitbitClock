@@ -63,12 +63,44 @@ Time      |  Takes 5 minutes or more without interuptions
 > 
 > Click the clockface and then click "Remove clock face".
 
-*If you see a red X on your watch and it vibrates the download has completed, but has failed. The bar will start going back and forth. See Most important tip for instructions.* 
+*If you see a red X on your watch and it vibrates the download has completed, but has failed. The bar will start going back and forth. Uninstall now, and restart the watch by shuttng it off in settings, and then back on again.
 
-*If the file won't stop downloading, shut off just your watch by going to settings : shut down. Your app will say "Unable to install" This will help it stop.* 
+<img src="https://github.com/SarahBass/downloadFitbitClock/blob/main/signal.gif" width="336" height="336">
+
+> ## Step 5: What if it won't stop the download?!
+
+   *This is a Fitbit issue and actually has nothing to do with Virtual Pet Star, but I understand your frustration or annoyance. The reason that      this happens is that Virtual Pet Star is a large file. Fitbit is not great at downloading files larger than 2 MB, even though it  can handle up    to 13-15 MB.*
+
+> Uninstall Fitbit app from your cellphone
+>
+> Install Fitbit app to another device, like a computer, laptop , ipad , or other smart-tablet. 
+>
+>  Shut off watch and turn it back on. 
+>
+> Sync the watch to the other device. When you click on Gallery view of apps it will say, "Unable to install". Don't start the re-install or select. Scroll down and Click "Remove Clockface". 
+>
+> Woohoo! (Please avoid all future downloads larger than 1 MB.)
+>
+> *------------Help!! That didn't work either!----------*
+>
+> Uninstall the app, go on an internet browser and create a new , free fitbit account with a different email. 
+>
+> Factory reset the watch to completion. 
+>
+>  Now link the clean watch to your clean account, and you should be free of it.
+>
+> Read the following pages on the topic:
+>
+> Fitbit Discussion Board [1](https://community.fitbit.com/t5/Versa-3/Versa-3-stuck-on-quot-Download-App-to-start-quot/td-p/4522827)
+>
+> Fitbit Discussion Board [2](https://community.fitbit.com/t5/Versa-3/Versa-3-stuck-on-quot-To-start-download-the-Fitbit-app-quot-message/td-p/4606317)
+>
+> Fitbit Discussion Board [3](https://community.fitbit.com/t5/Other-Versa-Smartwatches/App-will-not-quit-downloading/m-p/3165161#M67700)
+
 
 ![alt text](https://github.com/SarahBass/downloadFitbitClock/blob/main/Untitled%2011.png)
 
+>
 > ## Most Important Tip: 
 >
 >After Failed Upload, restart Fitbit Versa and turn Phone OFF/ON
@@ -80,3 +112,6 @@ Time      |  Takes 5 minutes or more without interuptions
 >Select Clock Face. Install. Place phone or Device next to watch. Wait 5 full minutes. 
 
 ## Good Luck!
+
+
+
