@@ -83,7 +83,9 @@ Time      |  Takes 5 minutes or more without interuptions
 > Don't start the re-install or select.
 > 
 > Scroll down and Click "Remove Clockface". 
->
+
+<img src="https://github.com/SarahBass/downloadFitbitClock/blob/main/removeversa.gif" width="336" height="336">
+
 > *------------Help!! That didn't work either!----------*
 >
 > Uninstall the app, go on an internet browser. 
@@ -93,6 +95,14 @@ Time      |  Takes 5 minutes or more without interuptions
 > Factory reset the watch to completion. 
 >
 >  Now link the clean watch to your clean account.
+
+> ## Further Reading
+>
+> Fitbit Discussion Board [1](https://community.fitbit.com/t5/Versa-3/Versa-3-stuck-on-quot-Download-App-to-start-quot/td-p/4522827)
+>
+> Fitbit Discussion Board [2](https://community.fitbit.com/t5/Versa-3/Versa-3-stuck-on-quot-To-start-download-the-Fitbit-app-quot-message/td-p/4606317)
+>
+> Fitbit Discussion Board [3](https://community.fitbit.com/t5/Other-Versa-Smartwatches/App-will-not-quit-downloading/m-p/3165161#M67700)
 
 ![alt text](https://github.com/SarahBass/downloadFitbitClock/blob/main/Untitled%2011.png)
 
@@ -108,14 +118,6 @@ Time      |  Takes 5 minutes or more without interuptions
 >Select Clock Face. Install. Place phone or Device next to watch. Wait 5 full minutes. 
 >
 
-
-> ## Further Reading
->
-> Fitbit Discussion Board [1](https://community.fitbit.com/t5/Versa-3/Versa-3-stuck-on-quot-Download-App-to-start-quot/td-p/4522827)
->
-> Fitbit Discussion Board [2](https://community.fitbit.com/t5/Versa-3/Versa-3-stuck-on-quot-To-start-download-the-Fitbit-app-quot-message/td-p/4606317)
->
-> Fitbit Discussion Board [3](https://community.fitbit.com/t5/Other-Versa-Smartwatches/App-will-not-quit-downloading/m-p/3165161#M67700)
 
 ## Good Luck!
 
