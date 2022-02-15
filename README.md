@@ -96,14 +96,6 @@ Time      |  Takes 5 minutes or more without interuptions
 >
 >  Now link the clean watch to your clean account.
 
-> ## Further Reading
->
-> Fitbit Discussion Board [1](https://community.fitbit.com/t5/Versa-3/Versa-3-stuck-on-quot-Download-App-to-start-quot/td-p/4522827)
->
-> Fitbit Discussion Board [2](https://community.fitbit.com/t5/Versa-3/Versa-3-stuck-on-quot-To-start-download-the-Fitbit-app-quot-message/td-p/4606317)
->
-> Fitbit Discussion Board [3](https://community.fitbit.com/t5/Other-Versa-Smartwatches/App-will-not-quit-downloading/m-p/3165161#M67700)
-
 ![alt text](https://github.com/SarahBass/downloadFitbitClock/blob/main/Untitled%2011.png)
 
 
@@ -121,5 +113,13 @@ Time      |  Takes 5 minutes or more without interuptions
 
 ## Good Luck!
 
+
+> Further Reading
+>
+> Fitbit Discussion Board [1](https://community.fitbit.com/t5/Versa-3/Versa-3-stuck-on-quot-Download-App-to-start-quot/td-p/4522827)
+>
+> Fitbit Discussion Board [2](https://community.fitbit.com/t5/Versa-3/Versa-3-stuck-on-quot-To-start-download-the-Fitbit-app-quot-message/td-p/4606317)
+>
+> Fitbit Discussion Board [3](https://community.fitbit.com/t5/Other-Versa-Smartwatches/App-will-not-quit-downloading/m-p/3165161#M67700)
 
 
