@@ -88,9 +88,7 @@ Time      |  Takes 5 minutes or more without interuptions
 ![alt text](https://github.com/SarahBass/downloadFitbitClock/blob/main/Untitled%2011.png)
 
 
-> ## Step 6: Last resort to delete large file downloads
->
-> Uninstall the app, go on an internet browser. 
+> ## Step 6: Still Downloading? Changing Log in always works!
 > 
 > Create a new , free fitbit account with a different email. 
 >
