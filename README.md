@@ -2,7 +2,7 @@
 
 UNOFFICIAL Download Guide for a Large file on Fitbit Versa 3 
 
-Email Darahbass@gmail if you still have issues. 
+Email VirtualStarWatch@gmail.com if you still have issues. 
 
 ![alt text](https://github.com/SarahBass/downloadFitbitClock/blob/main/3D60FACD-F0D7-4BD0-98CB-4F44132F3753.png)
 
